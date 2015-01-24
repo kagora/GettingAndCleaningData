@@ -1,5 +1,6 @@
 # Code Book
 
+
 This document describes the code inside `run_analysis.R`.
 
 The code is splitted (by comments) in some sections:
